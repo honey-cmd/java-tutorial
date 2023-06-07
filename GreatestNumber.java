@@ -11,7 +11,7 @@ public class GreatestNumber {
 		int num3;
 
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter first number");
+		System.out.println("Enter first number ");
 		num1 = sc.nextInt();
 		System.out.println("Enter second number");
 		num2 = sc.nextInt();
